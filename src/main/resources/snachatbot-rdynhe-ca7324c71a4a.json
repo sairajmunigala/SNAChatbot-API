@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "snachatbot-rdynhe",
+  "private_key_id": "ca7324c71a4ac767ed9ff5bb15acaffc79b93dc3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLTCtJzFMcZM2c\nH0beJDM2cJzLbLeKNZQqsimr4TNsQvtgpDDhgv/ZgfcE+ngj6DcynqUdYqNOYCpx\n37RWGzurf5XMhy8XjAYVlA2iPn4sLsI2dVyBTjydcokAZ8BtKRR2ZFJPwimYLOWu\nN58v6T3hkplERC6+PV+ujKDwHGj4+I3HMHkwtT4s4mtbKzK4pP0TpgOGMw27fmOs\n8cGwdKry78J4l9jIAdHQHGBY/z0uRqvBQssGRWmS/48RoY0gZnmg7zAjtIwvkOEc\nUBYz7bjs7D8adUHkf5jT13n6fWP2kB+iIgfufzES6KyJBljzXBpv3878vBPyaxP1\n1fPVHE79AgMBAAECggEARFOj5iqZ19MgQcTbu6oRDtKVLnlQ3DPkzj6fDybDVQbU\nDDbtnShnPDcyRhhf5ukIbkWAI1ZXWWH1X+8Fo7ju/3PxNCZZNJkkAOCjAWLa++wh\nqpnNusV4GRjt16uMqV7doScbcvD/+xuGu/qflF450tRYZrJ1JS6wqMtlQ/IDkZ+M\nk+qNLxYKJe8saAinkUz1sd1mHlWPqZNkyCvc+ojSPI3rMiEd3mt7vMaBDeb4h8ge\nVQHs90p/3tCyU9dJ844MVksAhtHlPvzdjoUlifzXQNGLmEi8OB45Qx8SL463uoIh\n0JdZoNPhKi1Z0kAYEVi8WYe4vvYlnxb80wtkj7YglwKBgQC+mgUS/rZFxbhMDfkO\n87JBeATRDG+RP/LUy2JX6LI0XLmrqV4eRbt6THAafLc1bq+XzHtb8QPM3wO07XmU\nWn5fWnlu+YpvKCthXx7P20SzkPPSNpNp1gV0+5OVPqnE3qVxksweHusAn76BI5i3\nHrM4zNQhrDFdyCkqIqQEzAtoMwKBgQC7F7kBkBp1ZyZolp+KxCK7rlXVlkeV5KbJ\nX29Nkf3LHumGjrfkFxk/Pk7+SO+MQn1b2Zr6R7CPFDPoBn64ZJ/AMF3NORGjDWBP\ndP1JzzTb2yJEOMJM5A5HXg3Vo0WW46EUCxDaC6z4y9OiOjTw7tt559mcrF/Qt7WC\nRE62j6X8DwKBgG+RhIrb4iHxXLHYNAOWjq9X66nal6v0PNZmvwgqQ7X22RAssdUS\niG1MNQqsGioCwnIe1c65w7m2iVrs7w/x8KssMIzPMUNjxhDXNxgAh7R8ktxn6d43\n0zXo1Ti1V3bPxRQ4E5dGDdVtrHu3NHtsUwhajYmwW61DryTk5hGQxtSVAoGBAIi0\nBrw7nPmXyxq0pBJyyaY09gbAbcH6dlvBXcRiHf0isyNceMUyk4IAdxuaE1563roU\nQAcMBtgkvOCWjlURQSDetktTna10AqFMLB6YRlk2vsz2ZBJmuIAxGw605A4iePn6\nM+/+g/6ugA6TVUeOX9OtMvYlhUUuVnO+kX0XbQLFAoGAXO3OrXQo2mdLhboc61Dy\nYyb0t8qyjr0N0otXkJAn6LskzitPohC5dq+oSh+lxDDbLt+sk/ofiVaFaLl7kzuR\nIOJEJi/5jIcQ4sofEenZ28v2Ph6Vg1NpBu5Iq9dg9KYWKZ+6iGYSPRQC/8zGrWpQ\n2/iHx5nLMdS9MKZH1nUE6FA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-ctujdj@snachatbot-rdynhe.iam.gserviceaccount.com",
+  "client_id": "109765419695973753377",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-ctujdj%40snachatbot-rdynhe.iam.gserviceaccount.com"
+}
