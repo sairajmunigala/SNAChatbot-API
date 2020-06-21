@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.sna.chatbot.dto.ChatbotRequestDTO;
+import com.example.sna.chatbot.dto.ChatbotResponseDTO;
 import com.example.sna.dialogflow.DialogFlowIntents;
 
 @CrossOrigin
@@ -17,7 +18,7 @@ public class SNABotController {
 	DialogFlowIntents dilogFlowIntents;
 
 	@PostMapping("/getChatBotResponse")
-	public String getChatbotResponse(@RequestBody ChatbotRequestDTO chatbotRequest){
+	public ChatbotResponseDTO getChatbotResponse(@RequestBody ChatbotRequestDTO chatbotRequest){
 		 return dilogFlowIntents.detectIntentTexts(chatbotRequest.getQuestion(), chatbotRequest.getSessionID());
 	}
 }
